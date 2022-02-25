@@ -1,0 +1,7 @@
+C:\Users\Agustin\source\repos\Tienda\Tienda.Start\bin\Debug\Tienda.Start.exe.config
+C:\Users\Agustin\source\repos\Tienda\Tienda.Start\bin\Debug\Tienda.Start.exe
+C:\Users\Agustin\source\repos\Tienda\Tienda.Start\bin\Debug\Tienda.Start.pdb
+C:\Users\Agustin\source\repos\Tienda\Tienda.Start\obj\Debug\Tienda.Start.csprojAssemblyReference.cache
+C:\Users\Agustin\source\repos\Tienda\Tienda.Start\obj\Debug\Tienda.Start.csproj.CoreCompileInputs.cache
+C:\Users\Agustin\source\repos\Tienda\Tienda.Start\obj\Debug\Tienda.Start.exe
+C:\Users\Agustin\source\repos\Tienda\Tienda.Start\obj\Debug\Tienda.Start.pdb
